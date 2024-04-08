@@ -39,7 +39,7 @@ function App() {
             marker: {color: 'green'},
 
           },
-        
+   
         
         ]}
         layout={ {width: 1300, height: "auto", autosize: true, margin: {
@@ -54,8 +54,8 @@ function App() {
           xanchor: 'center',  // Ensures the center of the legend aligns with the x position
           y: -0.2,  // Adjusts the vertical position to place it under the chart
           yanchor: 'bottom'  // Anchors the legend from its top edge
-        }}  }
-
+        }} }
+        
         
       />
       </div>
