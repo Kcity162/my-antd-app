@@ -617,7 +617,7 @@ const App = () => {
               colHeaders={true}
               rowHeaders={true}
               width="auto"
-              height="auto"
+              height="600"
             />
 
       </div>,
